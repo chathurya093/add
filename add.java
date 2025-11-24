@@ -3,6 +3,7 @@ public class Addition {
         int num1 = 10;
         int num2 = 5;
         int sum = num1 + num2;
-        System.out.println(" sum is: " + sum);
+        System.out.println(" sum is: "  sum);
     }
+
 }
